@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: "Inter", sans-serif;
+}
+
+a {
+  text-decoration: inherit;
+}
+
+body {
+  background-color: rgb(242, 245, 249);
+}

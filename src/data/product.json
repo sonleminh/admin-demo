@@ -1,0 +1,158 @@
+{
+  "products": [
+    {
+      "unit": {
+        "id": 1,
+        "square": 120,
+        "status": "available",
+        "price": 250000,
+        "bed": 3,
+        "bath": 2,
+        "room": 5,
+        "direction": "north",
+        "image": [
+          {
+            "image": "https://cf2.bstatic.com/xdata/images/hotel/max1280x900/442448101.jpg?k=471e87c95b7836d4a9570c75630447ff38ee5a39a88130b42951cfdbd8b11cf7&o=&hp=1",
+            "stas": "good"
+          },
+          {
+            "image": "https://cf2.bstatic.com/xdata/images/hotel/max1280x900/442448090.jpg?k=ca42f8632a0fd3b85d6eae01ec0ad3e20ac70b95bcb12e2f8eed010502878431&o=&hp=1",
+            "stas": "excellent"
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "image": "https://cf2.bstatic.com/xdata/images/hotel/max1280x900/442448101.jpg?k=471e87c95b7836d4a9570c75630447ff38ee5a39a88130b42951cfdbd8b11cf7&o=&hp=1",
+          "type": "interior"
+        },
+        {
+          "image": "https://cf2.bstatic.com/xdata/images/hotel/max1280x900/442448101.jpg?k=471e87c95b7836d4a9570c75630447ff38ee5a39a88130b42951cfdbd8b11cf7&o=&hp=1",
+          "type": "exterior"
+        }
+      ]
+    },
+    {
+      "unit": {
+        "id": 2,
+        "square": 150,
+        "status": "available",
+        "price": 300000,
+        "bed": 4,
+        "bath": 3,
+        "room": 6,
+        "direction": "south",
+        "image": [
+          {
+            "image": "https://cf2.bstatic.com/xdata/images/hotel/max1280x900/442448101.jpg?k=471e87c95b7836d4a9570c75630447ff38ee5a39a88130b42951cfdbd8b11cf7&o=&hp=1",
+            "stas": "good"
+          },
+          {
+            "image": "https://cf2.bstatic.com/xdata/images/hotel/max1280x900/442448090.jpg?k=ca42f8632a0fd3b85d6eae01ec0ad3e20ac70b95bcb12e2f8eed010502878431&o=&hp=1",
+            "stas": "excellent"
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "image": "https://cf2.bstatic.com/xdata/images/hotel/max1280x900/442448101.jpg?k=471e87c95b7836d4a9570c75630447ff38ee5a39a88130b42951cfdbd8b11cf7&o=&hp=1",
+          "type": "interior"
+        },
+        {
+          "image": "https://cf2.bstatic.com/xdata/images/hotel/max1280x900/442448101.jpg?k=471e87c95b7836d4a9570c75630447ff38ee5a39a88130b42951cfdbd8b11cf7&o=&hp=1",
+          "type": "exterior"
+        }
+      ]
+    },
+    {
+      "unit": {
+        "id": 3,
+        "square": 200,
+        "status": "available",
+        "price": 400000,
+        "bed": 5,
+        "bath": 4,
+        "room": 7,
+        "direction": "east",
+        "image": [
+          {
+            "image": "https://cf2.bstatic.com/xdata/images/hotel/max1280x900/442448101.jpg?k=471e87c95b7836d4a9570c75630447ff38ee5a39a88130b42951cfdbd8b11cf7&o=&hp=1",
+            "stas": "good"
+          },
+          {
+            "image": "https://cf2.bstatic.com/xdata/images/hotel/max1280x900/442448090.jpg?k=ca42f8632a0fd3b85d6eae01ec0ad3e20ac70b95bcb12e2f8eed010502878431&o=&hp=1",
+            "stas": "excellent"
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "image": "https://cf2.bstatic.com/xdata/images/hotel/max1280x900/442448101.jpg?k=471e87c95b7836d4a9570c75630447ff38ee5a39a88130b42951cfdbd8b11cf7&o=&hp=1",
+          "type": "interior"
+        },
+        {
+          "image": "https://cf2.bstatic.com/xdata/images/hotel/max1280x900/442448101.jpg?k=471e87c95b7836d4a9570c75630447ff38ee5a39a88130b42951cfdbd8b11cf7&o=&hp=1",
+          "type": "exterior"
+        }
+      ]
+    },
+    {
+      "unit": {
+        "id": 4,
+        "square": 180,
+        "status": "available",
+        "price": 350000,
+        "bed": 4,
+        "bath": 3,
+        "room": 6,
+        "direction": "west",
+        "image": [
+          {
+            "image": "https://cf2.bstatic.com/xdata/images/hotel/max1280x900/442448101.jpg?k=471e87c95b7836d4a9570c75630447ff38ee5a39a88130b42951cfdbd8b11cf7&o=&hp=1",
+            "stas": "good"
+          },
+          {
+            "image": "https://cf2.bstatic.com/xdata/images/hotel/max1280x900/442448090.jpg?k=ca42f8632a0fd3b85d6eae01ec0ad3e20ac70b95bcb12e2f8eed010502878431&o=&hp=1",
+            "stas": "excellent"
+          }
+        ]
+      },
+      "gallery": [
+        { "image": "https://example.com/gallery7.jpg", "type": "interior" },
+        { "image": "https://example.com/gallery8.jpg", "type": "exterior" }
+      ]
+    },
+    {
+      "unit": {
+        "id": 5,
+        "square": 250,
+        "status": "available",
+        "price": 500000,
+        "bed": 6,
+        "bath": 5,
+        "room": 8,
+        "direction": "north",
+        "image": [
+          {
+            "image": "https://cf2.bstatic.com/xdata/images/hotel/max1280x900/442448101.jpg?k=471e87c95b7836d4a9570c75630447ff38ee5a39a88130b42951cfdbd8b11cf7&o=&hp=1",
+            "stas": "good"
+          },
+          {
+            "image": "https://cf2.bstatic.com/xdata/images/hotel/max1280x900/442448090.jpg?k=ca42f8632a0fd3b85d6eae01ec0ad3e20ac70b95bcb12e2f8eed010502878431&o=&hp=1",
+            "stas": "excellent"
+          }
+        ]
+      },
+      "gallery": [
+        {
+          "image": "https://cf2.bstatic.com/xdata/images/hotel/max1280x900/442448101.jpg?k=471e87c95b7836d4a9570c75630447ff38ee5a39a88130b42951cfdbd8b11cf7&o=&hp=1",
+          "type": "interior"
+        },
+        {
+          "image": "https://cf2.bstatic.com/xdata/images/hotel/max1280x900/442448101.jpg?k=471e87c95b7836d4a9570c75630447ff38ee5a39a88130b42951cfdbd8b11cf7&o=&hp=1",
+          "type": "exterior"
+        }
+      ]
+    }
+  ]
+}
