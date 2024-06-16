@@ -1,8 +1,9 @@
 {
   "products": [
     {
+      "id": "1",
+
       "unit": {
-        "id": 1,
         "square": 120,
         "status": "available",
         "price": 250000,
@@ -33,8 +34,8 @@
       ]
     },
     {
+      "id": "2",
       "unit": {
-        "id": 2,
         "square": 150,
         "status": "available",
         "price": 300000,
@@ -65,8 +66,8 @@
       ]
     },
     {
+      "id": "3",
       "unit": {
-        "id": 3,
         "square": 200,
         "status": "available",
         "price": 400000,
@@ -97,8 +98,8 @@
       ]
     },
     {
+      "id": "4",
       "unit": {
-        "id": 4,
         "square": 180,
         "status": "available",
         "price": 350000,
@@ -123,8 +124,8 @@
       ]
     },
     {
+      "id": "5",
       "unit": {
-        "id": 5,
         "square": 250,
         "status": "available",
         "price": 500000,
@@ -154,5 +155,6 @@
         }
       ]
     }
-  ]
+  ],
+  "users": [{ "id": "12", "username": "admin", "email": "admin" }]
 }
